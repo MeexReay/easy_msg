@@ -10,3 +10,9 @@ connect server:
 ```
 ./easymsg client CLIENT_NAME IP:PORT
 ```
+
+# how to build
+you have to install rust!
+```
+cargo build --release
+```
