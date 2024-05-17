@@ -1,0 +1,13 @@
+[package]
+name = "easymsg"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bytebuffer = "2.2.0"
+byteorder = "1.5.0"
+chrono = "0.4.38"
+getch = "0.3.1"
+clearscreen = "3.0.0"
